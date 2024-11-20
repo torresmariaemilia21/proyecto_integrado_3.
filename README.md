@@ -15,7 +15,7 @@ examen
 [[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1ImBANuUQe3i-R61J4CCTyd431XdtERrNygpE2JErik8/edit?usp=sharing)]
 
 ### Se adjunta una muestra de como llevar el control de pulsaciones
-[[Control Cardio]()]
+[[Control Cardio](https://docs.google.com/spreadsheets/d/1iL0azc3mHcRE-Abkct_Z4CeDB3PHgtJlQNLPKSbAX9s/edit?usp=sharing)]
 
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
 [[Presentaciones]((https://app.presentations.ai/view/wLloMc)]
